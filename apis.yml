@@ -11,10 +11,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - RAN
   - AI
-  - Telecom
   - Linux Foundation
+  - RAN
+  - Telecom
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -29,8 +29,8 @@ apis:
       implementations and AI-based RAN algorithms.
     humanURL: https://www.linuxfoundation.org/
     tags:
-      - RAN
       - AI
+      - RAN
     properties:
       - type: Documentation
         url: https://www.linuxfoundation.org/
