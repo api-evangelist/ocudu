@@ -35,6 +35,10 @@ apis:
       - type: Documentation
         url: https://www.linuxfoundation.org/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ocudu-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ocudu-domain-security.yml
   - type: Documentation
     name: OCUDU Ecosystem Foundation Documentation
     description: Official documentation for OCUDU Ecosystem Foundation.
@@ -43,6 +47,8 @@ common:
     name: OCUDU Ecosystem Foundation GitHub
     description: Source code and repositories for OCUDU Ecosystem Foundation.
     url: https://github.com/ocudu
+  - url: https://ocudu.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
