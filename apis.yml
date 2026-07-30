@@ -7,16 +7,28 @@ description: >-
   algorithms, with founding members AMD, AT&T, Ericsson, Nokia, NVIDIA, and
   Verizon.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ocudu.png
 tags:
   - AI
   - Linux Foundation
   - RAN
   - Telecom
 created: '2026-03-16'
-modified: '2026-04-28'
+modified: '2026-07-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ocudu/refs/heads/main/apis.yml
 specificationVersion: '0.19'
