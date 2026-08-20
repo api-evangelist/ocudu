@@ -23,6 +23,11 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ocudu.png
 tags:
+  - Artificial Intelligence
+  - Linux Foundation
+  - RAN
+  - Telecom
+tags_raw:
   - AI
   - Linux Foundation
   - RAN
@@ -41,6 +46,9 @@ apis:
       implementations and AI-based RAN algorithms.
     humanURL: https://www.linuxfoundation.org/
     tags:
+      - Artificial Intelligence
+      - RAN
+    tags_raw:
       - AI
       - RAN
     properties:
